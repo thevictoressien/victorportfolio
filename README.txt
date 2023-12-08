@@ -9,9 +9,9 @@ Credits:
 
 	Images:
 		lag: Reginald Bassey https://commons.wikimedia.org/wiki/File:Ikoyi,_Lagos,_Nigeria.jpg
-        prem: https://pxhere.com/en/photo/1620074
-		finance: https://www.hippopx.com/en/calculator-calculation-insurance-finance-accounting-pen-investment-79790
-		tree: David Shankbone https://commons.wikimedia.org/wiki/File:Stuyvesant_Town_New_York_Tree_lined_path.jpg
+        cart: https://commons.wikimedia.org/wiki/File:Shopping_cart_New_York.jpg
+		social: https://www.flickr.com/photos/souvenirsofcanada/16667983308
+		movie: https://www.flickr.com/photos/13698839@N00/4227185562
 
 	Icons:
 		Font Awesome (fontawesome.io)
